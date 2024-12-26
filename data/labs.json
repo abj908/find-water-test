@@ -1,0 +1,452 @@
+[
+  {
+    "Lab Number": 15083,
+    "Lab Name": "J.R. HENDERSON LABS",
+    "Contact Name": "MARGARET ELLIS",
+    "Phone #": "732-341-1211",
+    "Approved Method": "EPA 200.9",
+    "Latest Certification Status Date": "3/4/1997",
+    "Municipality": "Beachwood Boro"
+  },
+  {
+    "Lab Number": 15083,
+    "Lab Name": "J.R. HENDERSON LABS",
+    "Contact Name": "MARGARET ELLIS",
+    "Phone #": "732-341-1211",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "5/17/2022",
+    "Municipality": "Beachwood Boro"
+  },
+  {
+    "Lab Number": "03886",
+    "Lab Name": "INNOVATIVE WATER SOLUTIONS LABORATORIES",
+    "Contact Name": "JENNIFER LOUDON",
+    "Phone #": "609-291-9072",
+    "Approved Method": "SM 3113 B",
+    "Latest Certification Status Date": "7/3/2000",
+    "Municipality": "Bordentown City"
+  },
+  {
+    "Lab Number": 15006,
+    "Lab Name": "BRICK TOWNSHIP MUNICIPAL UTILITIES AUTHORITY",
+    "Contact Name": "JENNIFER BILELLO",
+    "Phone #": "732-458-7000",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "1/31/2019",
+    "Municipality": "Brick Twp"
+  },
+  {
+    "Lab Number": 12007,
+    "Lab Name": "ACCREDITED ANALYTICAL RESOURCES, LLC",
+    "Contact Name": "DANIEL S MIGUEL",
+    "Phone #": "732-969-6112",
+    "Approved Method": "EPA 200.5",
+    "Latest Certification Status Date": "9/8/2017",
+    "Municipality": "Carteret Boro"
+  },
+  {
+    "Lab Number": "03036",
+    "Lab Name": "EMSL ANALYTICAL INC",
+    "Contact Name": "NICHOLAS STRACCIONE",
+    "Phone #": "856-303-2546",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "11/5/2008",
+    "Municipality": "Cinnaminson Twp"
+  },
+  {
+    "Lab Number": 12028,
+    "Lab Name": "EUROFINS EDISON",
+    "Contact Name": "CARL ARMBRUSTER",
+    "Phone #": "732-549-3900",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "9/15/2009",
+    "Municipality": "Edison Twp"
+  },
+  {
+    "Lab Number": 11036,
+    "Lab Name": "NEW JERSEY DEPARTMENT OF HEALTH",
+    "Contact Name": "ZHIHUA (TINA) FAN",
+    "Phone #": "609-530-2803",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "3/6/2013",
+    "Municipality": "Ewing Twp"
+  },
+  {
+    "Lab Number": "07010",
+    "Lab Name": "PACE ANALYTICAL SERVICES, LLC-FAIRFIELD",
+    "Contact Name": "EMILY SHULRUFF",
+    "Phone #": "973-227-0422",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "10/21/2008",
+    "Municipality": "Fairfield Twp"
+  },
+  {
+    "Lab Number": "07071",
+    "Lab Name": "HAMPTON- CLARKE",
+    "Contact Name": "JEAN REVOLUS",
+    "Phone #": "973-244-9770",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "6/27/2016",
+    "Municipality": "Fairfield Twp"
+  },
+  {
+    "Lab Number": 20044,
+    "Lab Name": "GARDEN STATE LABORATORIES INC",
+    "Contact Name": "HARVEY KLEIN",
+    "Phone #": "908-688-8900",
+    "Approved Method": "EPA 200.9",
+    "Latest Certification Status Date": "7/1/2002",
+    "Municipality": "Hillside Twp"
+  },
+  {
+    "Lab Number": 20044,
+    "Lab Name": "GARDEN STATE LABORATORIES INC",
+    "Contact Name": "HARVEY KLEIN",
+    "Phone #": "908-688-8900",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "3/2/2020",
+    "Municipality": "Hillside Twp"
+  },
+  {
+    "Lab Number": "05679",
+    "Lab Name": "CAPE ENVIRONMENTAL TESTING LABORATORY",
+    "Contact Name": "TIMOTHY DELP",
+    "Phone #": "609-463-0077",
+    "Approved Method": "SM 3113 B",
+    "Latest Certification Status Date": "4/28/1997",
+    "Municipality": "Middle Twp"
+  },
+  {
+    "Lab Number": "08006",
+    "Lab Name": "SOUTH JERSEY WATER TEST LLC",
+    "Contact Name": "MARK J RIETHER",
+    "Phone #": "856-875-3506",
+    "Approved Method": "SM 3113 B",
+    "Latest Certification Status Date": "11/23/2009",
+    "Municipality": "Monroe Twp"
+  },
+  {
+    "Lab Number": "03863",
+    "Lab Name": "EUROFINS IATL BUILT ENVIRONMENTAL TESTING",
+    "Contact Name": "FRANK EHRENFELD",
+    "Phone #": "856-231-9449",
+    "Approved Method": "ASTM D3559 (D)",
+    "Latest Certification Status Date": "3/21/2019",
+    "Municipality": "Mount Laurel Twp"
+  },
+  {
+    "Lab Number": 14006,
+    "Lab Name": "RADATA ANALYTICAL LAB",
+    "Contact Name": "CHRISTOPHER FERGUSON",
+    "Phone #": "888-355-1522",
+    "Approved Method": "SM 3113 B",
+    "Latest Certification Status Date": "11/29/2007",
+    "Municipality": "Mount Olive Twp"
+  },
+  {
+    "Lab Number": 20012,
+    "Lab Name": "ALLIANCE TECHNICAL GROUP, LLC - NEWARK",
+    "Contact Name": "MOHAMMAD AHMED",
+    "Phone #": "908-728-3151",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "2/17/2005",
+    "Municipality": "Mountainside Boro"
+  },
+  {
+    "Lab Number": "PA007",
+    "Lab Name": "AQUA PENNSYLVANIA INC",
+    "Contact Name": "ALICIA BEAUCHAMP",
+    "Phone #": "215-327-4113",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "11/14/2000",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "IL457",
+    "Lab Name": "AMERICAN WATER CENTRAL LABORATORY",
+    "Contact Name": "LINDA MACAULEY",
+    "Phone #": "618-222-4077",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "6/27/2001",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "NY158",
+    "Lab Name": "PACE ANALYTICAL SERVICES, LLC -MELVILLE, NY",
+    "Contact Name": "DIANA FERRARI",
+    "Phone #": "516-370-6000",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "7/1/2002",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "PA010",
+    "Lab Name": "ALS ENVIRONMENTAL - MIDDLETOWN",
+    "Contact Name": "SUSAN MAGNESS",
+    "Phone #": "717-944-5541",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "7/1/2002",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "NY455",
+    "Lab Name": "EUROFINS BUFFALO",
+    "Contact Name": "MARK NEMEC",
+    "Phone #": "716-504-9845",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "7/1/2003",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "NY015",
+    "Lab Name": "PACE ANALYTICAL SERVICES, LLC - NEWBURGH",
+    "Contact Name": "RENEE CUSACK",
+    "Phone #": "845-562-0890",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "7/1/2005",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "PA011",
+    "Lab Name": "EUROFINS LANCASTER LABS ENVIRONMENT TESTING",
+    "Contact Name": "KENNETH BOLEY",
+    "Phone #": "717-556-9413",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "7/1/2005",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "CT003",
+    "Lab Name": "PHOENIX ENVIRONMENTAL LABORATORY",
+    "Contact Name": "KATHY LETOURNEAU",
+    "Phone #": "860-645-1102",
+    "Approved Method": "EPA 200.9",
+    "Latest Certification Status Date": "7/1/2009",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "WA013",
+    "Lab Name": "EUROFINS EDGE ANALYTICAL",
+    "Contact Name": "MELISSA SWANSON",
+    "Phone #": "360-757-1400",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "8/3/2010",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "VA010",
+    "Lab Name": "VIRGINIA DIVISION OF CONSOLIDATED LAB SERVICE",
+    "Contact Name": "TAYLOR BEVILACQUA",
+    "Phone #": "804-648-4480",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "5/6/2011",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "VA001",
+    "Lab Name": "SCHNEIDER LABORATORIES GLOBAL, INC.",
+    "Contact Name": "KELLY MUNCY",
+    "Phone #": "804-307-1716",
+    "Approved Method": "EPA 200.9",
+    "Latest Certification Status Date": "7/1/2011",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "CT003",
+    "Lab Name": "PHOENIX ENVIRONMENTAL LABORATORY",
+    "Contact Name": "KATHY LETOURNEAU",
+    "Phone #": "860-645-1102",
+    "Approved Method": "EPA 200.5",
+    "Latest Certification Status Date": "7/1/2013",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "PA081",
+    "Lab Name": "SUBURBAN TESTING LABS INC",
+    "Contact Name": "SARAH PURTELL",
+    "Phone #": "610-375-8378",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "8/1/2013",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "CT003",
+    "Lab Name": "PHOENIX ENVIRONMENTAL LABORATORY",
+    "Contact Name": "KATHY LETOURNEAU",
+    "Phone #": "860-645-1102",
+    "Approved Method": "SM 3113 B",
+    "Latest Certification Status Date": "10/22/2015",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "NY012",
+    "Lab Name": "LONG ISLAND ANALYTICAL LABORATORY, INC.",
+    "Contact Name": "NICHOLAS PULEIO",
+    "Phone #": "631-472-3400",
+    "Approved Method": "EPA 200.5",
+    "Latest Certification Status Date": "10/14/2016",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "NY012",
+    "Lab Name": "LONG ISLAND ANALYTICAL LABORATORY, INC.",
+    "Contact Name": "NICHOLAS PULEIO",
+    "Phone #": "631-472-3400",
+    "Approved Method": "EPA 200.9",
+    "Latest Certification Status Date": "10/14/2016",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "CT003",
+    "Lab Name": "PHOENIX ENVIRONMENTAL LABORATORY",
+    "Contact Name": "KATHY LETOURNEAU",
+    "Phone #": "860-645-1102",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "6/1/2017",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "MA015",
+    "Lab Name": "ALPHA ANALYTICAL",
+    "Contact Name": "AMY RICE",
+    "Phone #": "508-898-9220",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "7/3/2017",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "PA098",
+    "Lab Name": "CWM ENVIRONMENTAL, INC",
+    "Contact Name": "BETHANY CLOUSE",
+    "Phone #": "724-543-3011",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "1/8/2020",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "IN598",
+    "Lab Name": "EUROFINS EATON ANALYTICAL, LLC - SOUTH BEND",
+    "Contact Name": "THERESA ZIELKE",
+    "Phone #": "574-472-5515",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "9/16/2020",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "TN002",
+    "Lab Name": "PACE ANALYTICAL NATIONAL CENTER",
+    "Contact Name": "PENNY HUNTER",
+    "Phone #": "615-773-9737",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "9/21/2020",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "MI859",
+    "Lab Name": "NATIONAL TESTING LABORATORIES LTD",
+    "Contact Name": "CHRISTINE MacMILLAN",
+    "Phone #": "734-483-8333",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "12/28/2020",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "MI859",
+    "Lab Name": "NATIONAL TESTING LABORATORIES LTD",
+    "Contact Name": "CHRISTINE MacMILLAN",
+    "Phone #": "734-483-8333",
+    "Approved Method": "SM 3113 B",
+    "Latest Certification Status Date": "12/28/2020",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "VA008",
+    "Lab Name": "ENVIRONMENTAL HAZARDS SERVICES, LLC",
+    "Contact Name": "JULIE DICKERSON",
+    "Phone #": "804-275-4788",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "7/1/2021",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "CA008",
+    "Lab Name": "EUROFINS EATON ANALYTICAL, LLC - POMONA",
+    "Contact Name": "KATHRYN CHANG",
+    "Phone #": "626-386-1129",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "3/10/2022",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "CT005",
+    "Lab Name": "YORK ANALYTICAL LABORATORIES INC",
+    "Contact Name": "SARAH WIDOMSKI",
+    "Phone #": "203-325-1371",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "7/26/2022",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "IN002",
+    "Lab Name": "EMSL ANALYTICAL, INC - INDIANAPOLIS",
+    "Contact Name": "ALEKS KUCHENBROD",
+    "Phone #": "800-220-3675",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "10/31/2022",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": "MN002",
+    "Lab Name": "PACE ANALYTICAL SERVICES, LLC -MINNEAPOLIS MN",
+    "Contact Name": "AILEEN STACKS",
+    "Phone #": "612-607-6352",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "7/1/2023",
+    "Municipality": "Out Of State"
+  },
+  {
+    "Lab Number": 14751,
+    "Lab Name": "INTEGRATED ANALYTICAL LABORATORIES",
+    "Contact Name": "MICHAEL LEFTIN",
+    "Phone #": "973-361-4252",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "12/20/2023",
+    "Municipality": "Randolph Twp"
+  },
+  {
+    "Lab Number": 12129,
+    "Lab Name": "SGS NORTH AMERICA INC. - DAYTON",
+    "Contact Name": "OLGA AZARIAN",
+    "Phone #": "732-329-0200",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "5/16/2003",
+    "Municipality": "South Brunswick Twp"
+  },
+  {
+    "Lab Number": 15001,
+    "Lab Name": "YORK ANALYTICAL LABORATORIES INC - TOMS RIVER",
+    "Contact Name": "JOSEPH RAVINO",
+    "Phone #": "203-325-1371",
+    "Approved Method": "SM 3113 B",
+    "Latest Certification Status Date": "5/16/1997",
+    "Municipality": "Toms River Twp"
+  },
+  {
+    "Lab Number": 15001,
+    "Lab Name": "YORK ANALYTICAL LABORATORIES INC - TOMS RIVER",
+    "Contact Name": "JOSEPH RAVINO",
+    "Phone #": "203-325-1371",
+    "Approved Method": "EPA 200.8",
+    "Latest Certification Status Date": "8/26/2021",
+    "Municipality": "Toms River Twp"
+  },
+  {
+    "Lab Number": "06003",
+    "Lab Name": "VINELAND ENVIRONMENTAL LABORATORIES LLC",
+    "Contact Name": "LATISH MENGHANI",
+    "Phone #": "856-692-6800",
+    "Approved Method": "SM 3113 B",
+    "Latest Certification Status Date": "10/10/2000",
+    "Municipality": "Vineland City"
+  }
+]
