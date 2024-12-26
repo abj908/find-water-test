@@ -1,0 +1,15 @@
+{
+  "name": "find-water-test",
+  "version": "1.0.0",
+  "description": "Find Drinking Water Testing Labs in NJ that are Certified to Test For Lead",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

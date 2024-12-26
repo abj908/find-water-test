@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Optional: Ignore logs
+*.log
+
+# Optional: Ignore npm-debug logs
+npm-debug.log*
+
+# Ignore IDE/editor configuration files
+.vscode/
+.idea/
+
+# Ignore system files (macOS, Windows, etc.)
+.DS_Store
+Thumbs.db
+
+# Ignore environment files (e.g., for API keys)
+.env
+
+# Ignore build artifacts if you use a build process (optional)
+dist/
+build/
