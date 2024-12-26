@@ -30,8 +30,7 @@ async function loadLabs() {
           } else {
               filteredLabs.forEach(lab => {
                   const listItem = document.createElement('li');
-                  listItem.textContent = `${lab["Lab Name"]} - ${lab.Municipality} - Phone: ${lab["Phone #"]}`;
-                  resultsList.appendChild(listItem);
+                  listItem.textContent = `${lab["Lab Name"]} | ${lab.Municipality} | Data Certified: ${lab["Latest Certification Status Date"]} | Phone: ${lab["Phone #"]}`;                  resultsList.appendChild(listItem);
               });
           }
       });
